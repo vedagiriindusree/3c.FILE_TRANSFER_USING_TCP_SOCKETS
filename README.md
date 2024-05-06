@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## Name:Vedagiri Indu Sree
-## Reg No:21222320236
+## Reg No:212223230236
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
